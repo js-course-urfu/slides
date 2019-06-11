@@ -4,4 +4,4 @@
 
 [Аккаунт курса](https://slides.com/js-course-urfu) 
 
-- [01-intro](https://slides.com/js-course-urfu/types-i/fullscreen) 
+- [01-intro](https://slides.com/js-course-urfu/intro/fullscreen)
